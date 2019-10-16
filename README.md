@@ -1,4 +1,4 @@
-# THIS PROJECT IS NO LONGER MAINTAINED
+# This is a fork of the original unmaintained repo. It is public, but not meant for public use.
 
 # react-native-qrcode
 A react-native component to generate [QRcode](http://en.wikipedia.org/wiki/QR_code), not only support English.
